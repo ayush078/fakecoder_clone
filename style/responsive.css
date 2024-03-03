@@ -1,0 +1,7 @@
+@media screen and (max-width: 991px) {
+    .nav-links ul {
+        justify-content: end;
+        gap: 40px;
+        display: none;
+    }   
+}
